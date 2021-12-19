@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ardavin´s medieval clock. Model Immanuel
+* source:	https://sketchfab.com/3d-models/ardavin-s-medieval-clock-model-immanuel-852c93427bd54fc398daac97a865a35e
+* author:	Miguel Garcia (https://sketchfab.com/infogades)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ardavin´s medieval clock. Model Immanuel" (https://sketchfab.com/3d-models/ardavin-s-medieval-clock-model-immanuel-852c93427bd54fc398daac97a865a35e) by Miguel Garcia (https://sketchfab.com/infogades) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

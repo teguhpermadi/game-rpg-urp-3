@@ -1,0 +1,11 @@
+Model Information:
+* title:	cupboard
+* source:	https://sketchfab.com/3d-models/cupboard-0c257a5da1c94c5f94c75e3ce4d35681
+* author:	xadzyki (https://sketchfab.com/xadzyki)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "cupboard" (https://sketchfab.com/3d-models/cupboard-0c257a5da1c94c5f94c75e3ce4d35681) by xadzyki (https://sketchfab.com/xadzyki) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

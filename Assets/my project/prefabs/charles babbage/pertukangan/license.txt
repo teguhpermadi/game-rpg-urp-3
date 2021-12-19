@@ -1,0 +1,11 @@
+Model Information:
+* title:	BR - Wood Tool
+* source:	https://sketchfab.com/3d-models/br-wood-tool-6019732d899944039045fe031abe8390
+* author:	Seshawn Suresh (https://sketchfab.com/seshawn.suresh)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "BR - Wood Tool" (https://sketchfab.com/3d-models/br-wood-tool-6019732d899944039045fe031abe8390) by Seshawn Suresh (https://sketchfab.com/seshawn.suresh) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
